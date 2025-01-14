@@ -13,6 +13,10 @@ A set of legacy version of admin panel and advanced version of admin create/dele
 
 This is a cog of joke commands for pranking dex players!
 
+### [NOT FINISHED] Better Logs
+
+An advanced logging system for logging more actions in the dexes!
+
 # How to install the cogs?
 
 Soon
